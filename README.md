@@ -28,7 +28,7 @@ A personal portfolio website to showcase projects, skills, and experience.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/Portfolio-Site-.git
+   git clone https://github.com/ashen0217/Portfolio-Site-.git
    cd Portfolio-Site-
    ```
 2. Install dependencies:
