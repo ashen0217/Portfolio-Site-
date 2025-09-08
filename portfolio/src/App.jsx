@@ -136,7 +136,10 @@ function App() {
               <h1>
                 Hello, I'm <span>Ashen Madusanka</span>
               </h1>
-              <h2>Software Engineer | Full Stack Developer</h2>
+              <h2>
+                Software Engineer | Full Stack Developer | Machine Learning
+                Engineer
+              </h2>
               <p>
                 Results-driven software engineer with a passion for building
                 scalable web applications and modern user experiences.
