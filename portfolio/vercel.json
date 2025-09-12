@@ -1,5 +1,4 @@
 {
-  "rootDirectory": "portfolio",
   "buildCommand": "npm install && npm run build",
   "outputDirectory": "dist"
 }
